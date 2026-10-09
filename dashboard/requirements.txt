@@ -1,0 +1,6 @@
+confluent-kafka
+pylint
+argparse
+python-dotenv
+pytest
+psycopg2-binary

@@ -1,0 +1,9 @@
+pytest
+pylint
+boto3
+python-dotenv
+pandas
+ipykernel
+argparse
+psycopg2-binary
+altair[all]
